@@ -1,4 +1,5 @@
-SUBJECTS = ["국어", "영어", "수학", "과탐"]
+# gradebook v1.0 — 1주차 실습 완료
+SUBJECTS = ["국어", "영어", "수학", "과학탐구"]
 
 
 def get_scores():
