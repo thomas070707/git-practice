@@ -1,5 +1,8 @@
-# gradebook
+## 개발 환경
+- Python 3.x
+- Git / GitHub
 
+# gradebook
 과목별 점수를 입력받아 성적을 관리하는 프로그램입니다.
 
 ## 기능
@@ -28,3 +31,4 @@
 
 ## 사용법
 python grades.py
+
